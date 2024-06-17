@@ -1,2 +1,2 @@
-# Ackley-function.py
+# Ackley-function
 Python
